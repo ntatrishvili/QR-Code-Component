@@ -34,7 +34,7 @@ I have understood how to use google fonts, how to correctly place divs and how t
 
 ## Author
 
-- Website - [Nia Tatrishvili](https://www.your-site.com)
+- Website - [Nia Tatrishvili]
 
 ## Acknowledgements
 
